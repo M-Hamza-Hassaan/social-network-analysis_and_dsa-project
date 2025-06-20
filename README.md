@@ -2,7 +2,7 @@
 
 A powerful, interactive Streamlit application designed to analyze and visualize social networks with advanced analytics, educational tools, and a user-friendly interface.
 
----
+----
 
 ## ✨ Feature Overview
 
