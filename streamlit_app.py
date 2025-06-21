@@ -118,9 +118,13 @@ def create_interactive_network(G, centralities=None, highlight_node=None):
     if G.number_of_nodes() == 0:
         return None
     
-    # Get layout
-    pos = nx.spring_layout(G, seed=42, k=3, iterations=50)
-    
+    # # Get layouts
+    # pos = nx.spring_layout(G, seed=42, k=3, iterations=50)
+    # k = 1 / np.sqrt(G.number_of_nodes())  # This gives a reasonable spacing
+    # pos = nx.spring_layout(G, seed=42, k=k, iterations=100)
+    # pos = nx.kamada_kawai_layout(G)
+    pos = nx.fruchterman_reingold_layout(G, seed=42)
+
     # Community detection
     partition = community_louvain.best_partition(G)
     
@@ -323,6 +327,8 @@ with tab1:
         if st.button("🔄 Clear All Data"):
             st.session_state.user_data = []
             st.rerun()
+
+
 
 with tab2:
     st.header("📊 Network Analysis & Interactive Visualization")
