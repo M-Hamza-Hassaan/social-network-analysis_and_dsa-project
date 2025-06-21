@@ -151,10 +151,8 @@ We welcome contributions! Feel free to fork the repository and submit a pull req
 
 ![Interface-1](https://github.com/user-attachments/assets/f2106456-8749-4d66-bf3c-627fb999f160)
 ---
-![Interface-4](https://github.com/user-attachments/assets/a0aecede-d1e7-44f0-9276-797ad482879e)
+![Capture](https://github.com/user-attachments/assets/b112e1e6-686e-4beb-94e9-8201d96925a1)
 ---
-
-
 ## 📄 License
 
 This project is licensed under the **[MIT License](LICENSE)**.  
