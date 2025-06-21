@@ -4,6 +4,13 @@ A powerful, interactive Streamlit application designed to analyze and visualize 
 
 ----
 
+
+![Interface-1](https://github.com/user-attachments/assets/f2106456-8749-4d66-bf3c-627fb999f160)
+---
+![Capture](https://github.com/user-attachments/assets/b112e1e6-686e-4beb-94e9-8201d96925a1)
+---
+
+
 ## ✨ Feature Overview
 
 This upgraded app introduces a comprehensive suite of features to support social network analysis, interactive learning, and efficient data management.
@@ -147,11 +154,6 @@ This app is ideal for:
 
 We welcome contributions! Feel free to fork the repository and submit a pull request or open an issue.
 
----
-
-![Interface-1](https://github.com/user-attachments/assets/f2106456-8749-4d66-bf3c-627fb999f160)
----
-![Capture](https://github.com/user-attachments/assets/b112e1e6-686e-4beb-94e9-8201d96925a1)
 ---
 ## 📄 License
 
